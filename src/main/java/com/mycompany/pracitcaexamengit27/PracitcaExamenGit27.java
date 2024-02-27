@@ -11,6 +11,6 @@ package com.mycompany.pracitcaexamengit27;
 public class PracitcaExamenGit27 {
 
     public static void main(String[] args) {
-        System.out.println(">Epi: ¡Hola blas!");        
+        System.out.println(">Blas: ¡Hola Epi!");        
     }
 }
